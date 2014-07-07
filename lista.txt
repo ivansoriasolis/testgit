@@ -3,3 +3,6 @@ Esta es la lista de alumnos de la unajma
 2. pedro
 3. maria
 4. julio
+5. pablo
+6. carlos
+7. cirilo
